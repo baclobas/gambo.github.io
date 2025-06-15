@@ -3,4 +3,4 @@
 <div>
     <p>Here should be LinkedIn course link</p>
 </div>
-<footer>**2025**</footer>
+<footer>__2025__</footer>
