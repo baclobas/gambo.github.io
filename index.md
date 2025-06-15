@@ -3,4 +3,6 @@
 <div>
     <p>Here should be LinkedIn course link</p>
 </div>
+
 <footer>__2025__</footer>
+<p> Add feature/ak-123-add-content-to-index.md</p>
